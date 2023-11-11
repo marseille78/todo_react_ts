@@ -10,7 +10,7 @@ const EmployeeAddForm: FC = () => {
         <input
           type="text"
           className="form-control new-post-label"
-          placeholder="Как его зовут?"
+          placeholder="Як його звати?"
         />
         <input
           type="number"
